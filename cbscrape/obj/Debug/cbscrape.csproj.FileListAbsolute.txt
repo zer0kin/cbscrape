@@ -1,0 +1,11 @@
+C:\Users\gamingpc\source\repos\cbscrape\cbscrape\obj\Debug\cbscrape.csprojAssemblyReference.cache
+C:\Users\gamingpc\source\repos\cbscrape\cbscrape\obj\Debug\cbscrape.csproj.CoreCompileInputs.cache
+C:\Users\gamingpc\source\repos\cbscrape\cbscrape\bin\Debug\cbscrape.exe.config
+C:\Users\gamingpc\source\repos\cbscrape\cbscrape\bin\Debug\cbscrape.exe
+C:\Users\gamingpc\source\repos\cbscrape\cbscrape\bin\Debug\cbscrape.pdb
+C:\Users\gamingpc\source\repos\cbscrape\cbscrape\obj\Debug\cbscrape.exe
+C:\Users\gamingpc\source\repos\cbscrape\cbscrape\obj\Debug\cbscrape.pdb
+C:\Users\gamingpc\source\repos\cbscrape\cbscrape\bin\Debug\HtmlAgilityPack.dll
+C:\Users\gamingpc\source\repos\cbscrape\cbscrape\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\gamingpc\source\repos\cbscrape\cbscrape\bin\Debug\HtmlAgilityPack.xml
+C:\Users\gamingpc\source\repos\cbscrape\cbscrape\obj\Debug\cbscrape.csproj.CopyComplete
